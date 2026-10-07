@@ -1,0 +1,14 @@
+:root {
+  --bg: #07090a;
+  --board: #0b1f17;
+  --board-2: #0f2a1f;
+  --copper: #c8875a;
+  --gold: #d4af6a;
+  --silkscreen: #e8e6e1;
+  --muted: #8a938e;
+  --signal: #3ddc97;
+  --line: rgba(232, 230, 225, 0.08);
+  --font-display: 'Space Grotesk Variable', system-ui, sans-serif;
+  --font-body: 'Inter Variable', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono Variable', ui-monospace, monospace;
+}
